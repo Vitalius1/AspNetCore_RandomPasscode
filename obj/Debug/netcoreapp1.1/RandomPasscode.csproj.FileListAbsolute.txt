@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/RandomPasscode/bin/Debug/netcoreapp1.1/RandomPasscode.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/RandomPasscode/bin/Debug/netcoreapp1.1/RandomPasscode.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/RandomPasscode/bin/Debug/netcoreapp1.1/RandomPasscode.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/RandomPasscode/bin/Debug/netcoreapp1.1/RandomPasscode.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/RandomPasscode/bin/Debug/netcoreapp1.1/RandomPasscode.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/RandomPasscode/obj/Debug/netcoreapp1.1/RandomPasscode.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/RandomPasscode/obj/Debug/netcoreapp1.1/RandomPasscode.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/RandomPasscode/obj/Debug/netcoreapp1.1/RandomPasscode.pdb

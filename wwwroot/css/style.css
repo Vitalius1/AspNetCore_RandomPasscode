@@ -1,0 +1,16 @@
+#main{
+    width: 25%;
+    margin: 0 auto;
+    text-align: center;
+}
+#box{
+    border: 2px solid black;
+    padding: 3px;
+}
+button{
+    display: inline-block;
+    font-size: 26px;
+}
+p{
+    font-size: 20px;
+}
